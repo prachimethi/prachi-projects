@@ -1,0 +1,22 @@
+# Ignore all env and Python build stuff
+# Python stuff
+__pycache__/
+*.py[cod]
+
+# Virtual environments and libs
+venv/
+env/
+Lib/
+Include/
+Scripts/
+bin/
+crypto/Lib/
+crypto/Lib/site-packages/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
